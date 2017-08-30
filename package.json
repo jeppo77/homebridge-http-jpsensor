@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-http-jpsensor",
+  "version": "1.0.0",
+  "description": "homebridge npm package for leak sensor",
+  "keywords": [
+    "homebridge-plugin",
+    "leaksensor",
+    "leak"
+  ],
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeppo77/homebridge-http-jpsensor.git"
+  },
+  "author": "jeppo77 <jeppo77@yahoo.com>",
+  "bugs": {
+    "url": "https://github.com/jeppo77/homebridge-http-jpsensor/issues"
+  },
+  "homepage": "https://github.com/jeppo77/homebridge-http-jpsensor#readme"
+}
